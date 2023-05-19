@@ -4,11 +4,16 @@
   "description": "Gerador de senhas para segurança do usuário",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vite --open"
   },
   "author": "Herick2D",
   "license": "ISC",
   "dependencies": {
-    "nanoid": "^4.0.2"
+    "nanoid": "^4.0.2",
+    "vite": "^4.3.8"
+  },
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^8.41.0"
   }
 }
