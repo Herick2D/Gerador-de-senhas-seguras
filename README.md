@@ -1,5 +1,4 @@
-# Gerador de Senhas com Copiador de Área de Transferência
-
+# Gerador de senhas seguras
 Este projeto foi desenvolvido em um ambiente acadêmico como parte de um estudo sobre a integração de bibliotecas externas em uma aplicação web. A aplicação permite gerar senhas aleatórias e copiá-las para a área de transferência ao clicar sobre elas.
 
 ## Tecnologias Utilizadas
